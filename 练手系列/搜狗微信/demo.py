@@ -34,10 +34,8 @@ import user_agent
 
 def get_article_url(s, base_article_url, headers):
     """
-    获取文章链接
-    :param base_article_url:
-    :param headers:
-    :return:
+    python 从写的js  的关键代码
+    关键代码
     """
     a = base_article_url.find("url=")
     b = int(random.random() * 100) + 1
