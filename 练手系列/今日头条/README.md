@@ -8,18 +8,18 @@
 ![如图4步走](https://github.com/zjw505104341/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/index_1.jpg)
 
 ####  打上断点开始调试
-![](/spider/练手系列/今日头条//img/2.jpg)
+![](/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/2.jpg)
 
 ####   走位进去发现as cp参数加密
-![](/spider/练手系列/今日头条//img/3.jpg)
+![](https://github.com/zjw505104341/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/3.jpg)
 
 ####   继续走位
-![](/spider/练手系列/今日头条//img/4.jpg)
+![](https://github.com/zjw505104341/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/4.jpg)
 
 #### 蒙了  蹦到89了   什么鬼   看不懂 先退为敬
 
 ####  退出来直接全局搜索  TAC   嘿嘿    让我发现了  
-![](/spider/练手系列/今日头条//img/5.jpg)
+![](https://github.com/zjw505104341/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/5.jpg)
 
 
 ####  直接开撸 js   发现运行js报错，先给下面代码加上
