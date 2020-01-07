@@ -5,7 +5,7 @@
 ### 开始分析
 
 ####  直接搜索关键参数
-![如图4步走](/spider/blob/master/练手系列/今日头条/img/index_1.jpg)
+![如图4步走](https://github.com/zjw505104341/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/index_1.jpg)
 
 ####  打上断点开始调试
 ![](/spider/练手系列/今日头条//img/2.jpg)
