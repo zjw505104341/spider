@@ -8,7 +8,7 @@
 ![如图4步走](https://github.com/zjw505104341/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/index_1.jpg)
 
 ####  打上断点开始调试
-![](/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/2.jpg)
+![](https://github.com/zjw505104341/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/2.jpg)
 
 ####   走位进去发现as cp参数加密
 ![](https://github.com/zjw505104341/spider/blob/master/%E7%BB%83%E6%89%8B%E7%B3%BB%E5%88%97/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1/img/3.jpg)
