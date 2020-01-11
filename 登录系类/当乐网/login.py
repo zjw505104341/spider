@@ -1,0 +1,4 @@
+
+
+print('w'.encode('gbk'))
+
