@@ -206,7 +206,7 @@ var v_generateSaltSign = function(e) {
         ts: r,
         bv: t,
         salt: i,
-        sign: n_md5("fanyideskweb" + e + i + "n%A-rKaT5fb[Gy?;N5@Tj")
+        sign: n_md5("fanyideskweb" + e + i + "Nw(nmmbP%A-r6U3EUn]Aj")
     }
 };
 
