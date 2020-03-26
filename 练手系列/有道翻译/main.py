@@ -39,7 +39,11 @@ def youdao(name):
     s.get(url=url_1, headers=headers)
     res = s.post(url=url_2, data=data, headers=headers)
     print(res.status_code)
-    print(res.text)
+    html = json.loads(res.text)
+    for i in html['translateResult']:
+        for x in i:
+            txt = x['tgt']
+            print(txt)
 
 
 
