@@ -6,7 +6,7 @@
 
 ### 开始分析
 #### 第一步
-![](https://raw.githubusercontent.com/zjw505104341/spider/master/yzm/one/md_img/1.png)
+![](https://github.com/zjw505104341/spider/blob/master/yzm/one/md_img/1.png)
 
 #### 第二步
 ![](https://github.com/zjw505104341/spider/yzm/one/md_img/2.png)
