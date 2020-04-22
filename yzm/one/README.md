@@ -6,8 +6,8 @@
 
 ### 开始分析
 #### 第一步
-![](https://raw.githubusercontent.com/zjw505104341/yzm/md_img/1.png)
+![](https://github.com/zjw505104341/spider/tree/master/yzm/one/md_img/1.png)
 
 #### 第二步
-![](https://raw.githubusercontent.com/zjw505104341/yzm/md_img/2.png)
+![](https://github.com/zjw505104341/spider/tree/master/yzm/one/md_img/2.png)
 
