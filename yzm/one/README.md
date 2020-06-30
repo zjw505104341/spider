@@ -1,4 +1,4 @@
-##  点选验证码炮破解 demo
+##  点选验证码破解 demo
 
 ### [目标网站](https://linzhi.baixing.com/oz/s9verify_html?identity=spider&redirect=https%3A%2F%2Flinzhi.baixing.com%2F&scene=spider)
 
