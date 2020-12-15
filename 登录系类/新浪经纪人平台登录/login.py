@@ -10,7 +10,7 @@ class login():
 
     def __init__(self, pwd) -> None:
         self.s = requests.session()
-        self.ctx = execjs.compile(open('test.js', 'r').read())
+        self.ctx = execjs.compile(open('encode.js', 'r').read())
         self.e_pwd = self.ctx.call('get_pwd', pwd)
         self.g_url = self.ctx.call('s_url')
         self.url_1 = f'http://j.esf.leju.com/ucenter/qrlogin/?_={self.g_url}'
